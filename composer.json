@@ -1,0 +1,15 @@
+{
+    "name": "mamounenidam/tp-elections",
+    "autoload": {
+        "psr-4": {
+            "Mamounenidam\\TpElections\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Galah3ad",
+            "email": "77021667+Galahaaad@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
